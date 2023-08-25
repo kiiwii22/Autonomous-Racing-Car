@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/kiiwii/sim_ws/install/safety_node/lib/python3.10/site-packages",
+        "/home/kiiwii/sim_ws/install/f1tenth_gym_ros/lib/python3.10/site-packages",
+        "/home/kiiwii/ros2_ws/build/my_robot_controller",
+        "/home/kiiwii/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/kiiwii/sim_ws/install/safety_node/lib/python3.10/site-packages",
+        "/home/kiiwii/sim_ws/install/f1tenth_gym_ros/lib/python3.10/site-packages",
+        "/home/kiiwii/ros2_ws/build/my_robot_controller",
+        "/home/kiiwii/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
