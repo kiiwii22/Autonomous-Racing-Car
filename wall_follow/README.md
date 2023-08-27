@@ -27,10 +27,14 @@ Using the angle alpha, we can determine the current distance Dt to the car
 ![image](https://github.com/kiiwii22/Autonomous-Racing-Car/assets/76494996/b2d2bf4c-dfc6-4a66-af37-45e146d07c42)
 
 Subsequently, we can calculate the error as follows:
+
 Error = desired_distance - Dt"
 
 And finally, apply the PD controller:
+
 ![image](https://github.com/kiiwii22/Autonomous-Racing-Car/assets/76494996/f9a478fd-ac75-44b5-ae5c-0e3884e38ef9)
+
+
 
 Additionally, we will incorporate speed control for different driving scenarios(driving straight or turning):
 
