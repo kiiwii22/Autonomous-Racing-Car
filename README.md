@@ -7,7 +7,5 @@ Welcome! This repository contains autonomous racing ROS2 packages for the [F1TEN
 
 ## Software Stack Overview
 
-#### Safety_node:
-implements the concept of Automatic Emergency Braking within the F1THENTH car
-### PID controller:
-To Maintain the car's trajectory along the centerline 
+**Safety_node**: implements the concept of Automatic Emergency Braking within the F1TENTH car
+**PID controller**: To maintain the car's trajectory along the centerline 
