@@ -13,6 +13,7 @@ The 'wall_follow' package is a ROS2 module designed to achieve autonomous drivin
 source: Source: F1TENTH Course from University of Pennsylvania
 
 
+
 ##### What is the method for measuring the distance to the wall?
 
 ![image](https://github.com/kiiwii22/Autonomous-Racing-Car/assets/76494996/cfb801a5-0c9e-4afe-ae1f-e637edd0d6ae)
