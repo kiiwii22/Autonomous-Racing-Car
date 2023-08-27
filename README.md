@@ -5,8 +5,7 @@
 ## Introduction
 Welcome! This repository contains autonomous racing ROS2 packages for the [F1TENTH](https://f1tenth.org/) on ROS2 Humble. These packages have been tested in the [F1TENTH racecar simulator](https://github.com/f1tenth/f1tenth_gym_ros).
 
-## Software Stack Overview
-
+## Software stack overview
 **Safety_node**: implements the concept of Automatic Emergency Braking within the F1TENTH car.
 
 **PID controller**: To maintain the car's trajectory along the centerline.
