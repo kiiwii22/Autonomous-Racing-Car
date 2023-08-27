@@ -1,10 +1,13 @@
 # Wall Follow
 
+
 The 'wall_follow' package is a ROS2 module designed to achieve autonomous driving while maintaining alignment with the centerline within the F1TENTH simulator. It implements a PID controller that takes the difference between the intended and measured distances from the wall as input and produces the appropriate steering angle as output.
 
 ### Control objectives:
+
 * Maintain the car's trajectory along the centerline (y = 0) of the map frame. The origin of the map frame is located at the starting point on the centerline.
 * Keep the car  parallel to the walls => theta(the angle formed by the car  and x-axis) = 0
+  
 ![kkkkk](https://github.com/kiiwii22/Autonomous-Racing-Car/assets/76494996/394053e0-05fc-415f-afa3-765722be3258)
 
 
