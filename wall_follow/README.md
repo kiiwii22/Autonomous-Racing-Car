@@ -3,6 +3,8 @@
 
 The 'wall_follow' package is a ROS2 module designed to achieve autonomous driving while maintaining alignment with the centerline within the F1TENTH simulator. It implements a PD controller that takes the difference between the desired and measured distances from the wall as input and produces the appropriate steering angle as output.
 
+https://github.com/kiiwii22/Autonomous-Racing-Car/assets/76494996/6be8bcd7-cfad-44a0-947c-261fc49a2e62
+
 ### Control objectives:
 
 * Maintain the car's trajectory along the centerline (y = 0) of the map frame. The origin of the map frame is located at the starting point on the centerline.
